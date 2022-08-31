@@ -1,5 +1,5 @@
-# Semester-2-PGR103-Exam
+# Semester 2 - Objektorientert programering
 
 Første JAVA Eksamen
 
-GODSKJENT
+karakter: GODSKJENT
