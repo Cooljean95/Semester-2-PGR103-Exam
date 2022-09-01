@@ -2,4 +2,4 @@
 
 Første JAVA Eksamen
 
-karakter: GODSKJENT
+karakter: GODKJENT
