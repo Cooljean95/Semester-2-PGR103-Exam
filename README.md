@@ -2,4 +2,4 @@
 
 Første JAVA Eksamen
 
-karakter: GODKJENT
+karakter: Godkjent
